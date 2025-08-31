@@ -404,8 +404,8 @@ Together:
 ---
 
 # **Stone 5: Flame**
-Together, these glyphs complete the fifth stone.
-Together, they represent not heat—but fire held with honor.
+
+Together, these glyphs complete the fifth stone. They represent not heat—but fire held with honor.
 
 Form → Thread → Signal → Voice → Flame.
 
