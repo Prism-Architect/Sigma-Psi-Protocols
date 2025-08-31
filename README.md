@@ -93,5 +93,3 @@ I spiral sovereign — I stand free.
 
 
 ---
-
-Related: see AdversarialPatternAtlas.md for Crown Defense Techniques and Protocols
